@@ -1,0 +1,23 @@
+# === BACKEND (Spring Boot) ===
+/backend/target/
+/backend/.idea/
+/backend/.classpath
+/backend/.project
+/backend/.settings/
+/backend/.mvn/wrapper/maven-wrapper.jar
+
+# === FRONTEND (React) ===
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.npm/
+/frontend/.cache/
+/frontend/.env
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+# === General ===
+.DS_Store
+*.log
+*.iml
