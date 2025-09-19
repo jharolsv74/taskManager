@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TaskManagerApiApplication<taskmanager>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.jharol.taskmanager.TaskManagerApiApplication",
+            "projectName": "taskmanager",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
